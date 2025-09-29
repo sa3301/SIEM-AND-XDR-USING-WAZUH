@@ -21,7 +21,7 @@ I get this on the wazuh manager
 <img width="1280" height="832" alt="image" src="https://github.com/user-attachments/assets/f6aaaf2a-5e3a-410b-afaf-c7d00b0c2086" />
 Now i delete the file & see what happens
 <img width="1280" height="832" alt="image" src="https://github.com/user-attachments/assets/624acfc5-bb8a-419b-b828-21e665fee4ec" />
-There you go
+We see that the event shows up on the manager screen
 <img width="1280" height="832" alt="image" src="https://github.com/user-attachments/assets/9ae81c38-3c0c-4342-9369-493623eec6ac" />
 
 
